@@ -1,0 +1,1 @@
+export const SET_MENU_SELECTED = 'set-menu-selected'
